@@ -1,5 +1,6 @@
 
 ## My Portfolio Preview
+<img src="https://raw.githubusercontent.com/harpreetseera/harpreetseera.github.io/master/dist/assets/screenshot/preview.png" height="75%" width="75%" alt="Harpreet's portfolio preview"/>
 
 
 **[View Live Preview](https://harpreetseera.github.io)**
