@@ -10120,6 +10120,31 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
+.card {
+  background-color: #f6f6f6;
+  border-radius: 1.5em;
+}
+.card:hover {
+  box-shadow: 0px 5px 20px #bd5d38;
+  transition: top ease 0.5s;
+  top: -10px;
+}
+.card .card-image{
+  border-top-left-radius: 1.5em;
+  border-top-right-radius: 1.5em;
+}
+
+.card .time-div{
+  background-color: #FFFFFF;
+  height: 24px;
+  width: 75px;
+  border-radius: 1em;
+  text-align: center;
+  color: #bd5d38;
+  align-self: center;
+
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
